@@ -1,4 +1,4 @@
-require 'lib/midibloop'
+require "#{File.dirname(__FILE__)}/lib/midibloop"
 
 
 m = MidiBloop.new
